@@ -8,5 +8,4 @@ for i in range(5):
     if NameList[i]==N:
         print('yes')
     else:
-        print("no")
-        break
+        continue
