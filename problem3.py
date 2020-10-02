@@ -10,4 +10,5 @@ for i in range(0,N):
     c=int(c)
     a += c
     N -= 1
-print(a)
+a=str(a)
+print("the sum of the series is "+a)
